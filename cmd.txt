@@ -1,0 +1,5 @@
+cd C:\Users\Administrator\Desktop\GCP-git
+
+gcloud source repos list
+
+
